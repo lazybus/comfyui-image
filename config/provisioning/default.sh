@@ -14,10 +14,11 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/sipherxyz/comfyui-art-venture"
-    "https://github.com/kijai/ComfyUI-KJNodes"
-    "https://github.com/TheMistoAI/ComfyUI-Anyline"
+    "https://github.com/kijai/ComfyUI-KJNodes"    
     "https://github.com/storyicon/comfyui_segment_anything"
     "https://github.com/chflame163/ComfyUI_LayerStyle"
+    "https://github.com/TheMistoAI/ComfyUI-Anyline"
+    "https://github.com/42lux/ComfyUI-safety-checker"
 )
 
 CHECKPOINT_MODELS=(
